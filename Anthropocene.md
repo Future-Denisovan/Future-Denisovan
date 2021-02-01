@@ -3,6 +3,7 @@ December of 2020, I started looking for roles in companies that interested me th
 
 <img src="images/qt.gif?raw=true"/>
 
+*I'm in the process of updating the GUIs that I created with Qt-which has a much more professional look that many companies use.*
 
 My experience over the past 8 months has been a whirlwind of learning new technologies, getting to exchange ideas with wonderful, intelligent people, and has given me the opportunity to grow immensely. Lucas Meyer, a Foster alum and a data scientist shared with the MSBA class his experience at Microsoft and Amazon during one of our leadership classes. During the Q and A, I asked him, how are you able to create these models to find these insights? They seem to be incredibly complex for one person. And his answer will also resonate with me, he said "I don't do anything alone. The model I showed you today that I used at Amazon was created on the backs of giants, 40 people from all throughout history and with a willingness to share knowlege made this possible". Of all the experiences and knowledge I learned, I keep coming back to this idea, that our purpose is to build up those around us and collaborate together. The sum of our collective knowledge is more than any one individual.
  
