@@ -2,8 +2,6 @@ The reason I transitioned careers is that the use and application of insights ga
 
 When I learned I was accepted, I was incredibly excited-I would be able to exchange the thoughts and ideas with others about our current world and the possibilities of the future. The future described by optimists such as Satya Nadella, the CEO of Microsoft, who paints a picture in *Hit Refresh* of ethical technology companies leading the way in mending societal injury. Or the future of a multicultural, global, interconnected world that shares a love of life-long learning, like Thomas Friedman describes in *Thank you for Being Late*. 
 
-Even as I confirmed my enrollment in February 2020, there was a shadow that loomed over our world that many of us connected to the intelligence and online communities had been aware of long before but naively hoped those in charge were planning for. My friends and I in the military watched in alarm as many so called leaders dismissed a global pandemic for political expediency.    
-
 As I started school in June, I was felt so privileged to have an opportunity to learn while others risk of mortality had increased, or had lost all financial stability. Although I could not exchange ideas before and after class with my cohort in person, I could take advantage of forced isolation and volunteer my time to improve some process while learning a new skill.
 
 Discussing with a friend of mine that was a regional sales manager what I had learned in class that week, I asked him about what key performance indicators he used to measure his sales and what format he received them in. I was surprised to learn that he received over a hundred PDF pages of sales data each month. Even if he studied a page a day, what insight would he glean? How would he compare store performance? Performance for products over time? This was a process that could be immensely improved with just the organization of data.
@@ -18,5 +16,3 @@ I poured my free time into building a program for him that translated the PDF re
 
  <br><br>
   <a href="https://future-denisovan.github.io/">Back to homepage</a>
-  
-[Video Demo](https://youtu.be/TOhuZRgCHxQ)
